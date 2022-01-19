@@ -1,6 +1,6 @@
 # 恭喜你发现了新大陆
 
-- 📌 付费版及 vip 群购买地址：[购买地址](https://vue-admin-beautiful.com/authorization/)
+- 📌 付费版购买地址：[购买地址](https://vue-admin-beautiful.com/authorization/)
 
 - 💻 pro 付费版演示地址：[https://chu1204505056.gitee.io/admin-pro/](https://vue-admin-beautiful.com/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
 
